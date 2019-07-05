@@ -1,6 +1,6 @@
-# Manatee-Feeding
+# Composition24
 
-Manatee Feeding
+Composition24
 
 iOS technical support URL:
 If you have any questions, please leave a message.
