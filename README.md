@@ -1,6 +1,6 @@
-# Cute-Sliding-Puzzle
+# Cute-Slide-Puzzle
 
-Cute Sliding Puzzle
+Cute Slide Puzzle
 
 iOS technical support URL:
 If you have any questions, please leave a message.
