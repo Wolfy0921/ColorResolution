@@ -1,10 +1,10 @@
-# Composition24
+# Cute-Sliding-Puzzle
 
-Composition24
+Cute Sliding Puzzle
 
 iOS technical support URL:
 If you have any questions, please leave a message.
-Email address: Wolfy0921@hooly.com
+Email address: Wolfy0921@gmail.com
 
 
 
